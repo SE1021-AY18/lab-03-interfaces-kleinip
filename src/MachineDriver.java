@@ -4,6 +4,7 @@
  * Lab 3 - Interfaces
  * Created: 12/7/2016
  */
+
 import java.util.Scanner;
 
 /**
